@@ -2,6 +2,7 @@
     String carName ;
     int modelNumber ;
     int year ;
+    
     public  void printInfo(){
         System.out.println(this.carName);
         System.out.println(this.modelNumber);
